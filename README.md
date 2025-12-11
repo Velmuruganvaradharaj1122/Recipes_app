@@ -6,7 +6,7 @@ A complete CRUD (Create, Read, Update, Delete) RESTful API for managing recipes.
 
 ## 🚀 Live Demo & Repository
 - **GitHub Repository:** [https://github.com/Velmuruganvaradharaj1122/Recipes_app](https://github.com/Velmuruganvaradharaj1122/Recipes_app)
-- **Live Server (Render):** [Paste your Render URL here after deployment]
+- **Live Server (Render):** https://recipes-app-r17r.onrender.com
 
 ---
 
